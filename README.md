@@ -5,7 +5,7 @@ Proyek ini adalah bagian dari tugas akhir dalam kursus "Belajar Analisis Data de
 # 1. File Struktur
 ```plaintext
 .
-├── dashboard
+├── Dashboard
 │   ├── dashboard.py
 │   └── df_jam_analisis.csv
 │   └── BikeSharing.png
