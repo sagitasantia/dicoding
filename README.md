@@ -8,11 +8,11 @@ Proyek ini adalah bagian dari tugas akhir dalam kursus "Belajar Analisis Data de
 ├── dashboard
 │   ├── dashboard.py
 │   └── df_jam_analisis.csv
-│   └── background.jpg
+│   └── BikeSharing.png
 ├── data
 │   ├── Readme.txt
-│   ├── df_hari.csv
-│   └── df_jam.csv
+│   ├── day.csv
+│   └── hour.csv
 ├── screenshots
 │   ├── Screenshots 1.png
 │   ├── Screenshots 2.png
