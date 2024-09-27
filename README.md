@@ -14,10 +14,11 @@ Proyek ini adalah bagian dari tugas akhir dalam kursus "Belajar Analisis Data de
 │   ├── df_hari.csv
 │   └── df_jam.csv
 ├── screenshots
-│   ├── Screenshots (91).png
-│   ├── Screenshots (92).png
-│   ├── Screenshots (93).png
-│   └── Screenshots (94).png
+│   ├── Screenshots 1.png
+│   ├── Screenshots 2.png
+│   ├── Screenshots 3.png
+│   ├── Screenshots 4.png
+│   └── Screenshots 5.png
 ├── README.md
 ├── notebook.ipynb
 └── requirements.txt
