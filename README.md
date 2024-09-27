@@ -69,4 +69,19 @@ streamlit run main.py
 ```
 streamlit run dashboard.py
 ```
+# 4. Screenshots
+![image](https://github.com/user-attachments/assets/8bab2c0e-8436-474b-ae72-9c729c7be31b)
+
+![image](https://github.com/user-attachments/assets/cfe868ee-a220-4c5c-9787-3290e6cec4c9)
+
+![image](https://github.com/user-attachments/assets/eddaa5ef-f820-4576-a4bb-6966d371733c)
+
+![image](https://github.com/user-attachments/assets/e857fa4b-2962-486e-a285-03591d792afe)
+
+![image](https://github.com/user-attachments/assets/59d4fb6b-51fd-43bf-adce-5f6efef192f4)
+
+
+
+
+
 
