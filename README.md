@@ -27,3 +27,46 @@ Proyek ini adalah bagian dari tugas akhir dalam kursus "Belajar Analisis Data de
 - Mengumpulkan Data: Mengumpulkan data dari sumber yang tersedia, termasuk data hari dan jam.
 - Menilai Data: Menilai kualitas data dengan melihat tipe data, missing values, dan duplikat.
 - Membersihkan Data: Menghapus atau mengganti nilai yang hilang, duplikat, serta kolom yang tidak relevan.
+
+## 2. Exploratory Data Analysis (EDA) :
+- Menentukan Pertanyaan Bisnis : Menyusun pertanyaan bisnis yang ingin dijawab, seperti tren penggunaan berdasarkan waktu dan pengaruh cuaca.
+- Eksplorasi Data: Menganalisis data untuk melihat pola, tren, atau informasi penting yang bisa membantu memahami data dengan lebih baik.
+
+## 3. Visualisasi Data:
+- Membuat Visualisasi Data: Menampilkan grafik untuk melihat tren musiman, dampak cuaca terhadap penggunaan, serta perbandingan penggunaan antara pengguna kasual dan terdaftar.
+
+## 4. Dashboard
+- Mengatur DataFrame yang Akan Digunakan: Menyiapkan data dari DataFrame yang sebelumnya telah dianalisis di Google Colab, termasuk hasil pembersihan dan eksplorasi data, untuk kemudian diintegrasikan ke dalam dashboard.
+- Membuat Komponen Filter di Dashboard: Menambahkan filter seperti musim, cuaca, dan suhu untuk memudahkan eksplorasi data.
+- Melengkapi Dashboard dengan Visualisasi Data: Melengkapi dashboard dengan grafik-grafik untuk menjawab pertanyaan bisnis.
+- Tahapan 1 hingga 3 dilakukan dalam analisis data, sedangkan tahapan 4 dilakukan untuk membuat dashboard menggunakan Streamlit.
+
+# 3. Langkah Menjalankan project
+## Notebook.ipynb
+### 1. Download file projectnya
+### 2. Kemudian buka google colaboratory di website/chroem
+### 3. Buat notebook baru di Google Colab.
+### 4. upload dan pilih file dengan format .ipynb yang telah didownload tadi
+### 5. Hubungkan ke runtime yang sudah di-hosting dengan mengklik "Connect".
+### 6. Jalankan kode di notebook dengan menekan tombol "Run" pada setiap cell kode.
+
+## Dashboard/dashboard.py
+## Dashboard.py/main.py
+### 1. Download file projectnya
+### 2. install streamlit di terminal dengan mengetikkan "pip install streamlit"
+- Buat file `requirements.txt` yang berisi library yang dibutuhkan seperti pandas, numpy, matplotlib, dan seaborn.
+- Install library tersebut dengan mengetikkan `pip install -r requirements.txt` di terminal.
+### 3. Pastikan file CSV (dataset) disimpan dalam folder yang sama dengan file dashboard.py atau main.py.
+### 4. Buka Visual Studio Code (VSCode), aktifkan virtual environment dengan mengetikkan perintah berikut di terminal:
+```
+.\venv\Scripts\activate
+```
+- Jika sudah masuk ke virtual environment, jalankan Streamlit dengan perintah:
+```
+streamlit run main.py
+```
+- Jika menggunakan `dashboard.py`, ubah perintahnya menjadi:
+```
+streamlit run dashboard.py
+```
+
