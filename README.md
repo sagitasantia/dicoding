@@ -7,11 +7,12 @@ Proyek ini adalah bagian dari tugas akhir dalam kursus "Belajar Analisis Data de
 .
 ├── dashboard
 │   ├── dashboard.py
-│   └── day.csv
+│   └── df_jam_analisis.csv
+│   └── background.jpg
 ├── data
 │   ├── Readme.txt
-│   ├── day.csv
-│   └── hour.csv
+│   ├── df_hari.csv
+│   └── df_jam.csv
 ├── screenshots
 │   ├── Screenshots (91).png
 │   ├── Screenshots (92).png
